@@ -1,5 +1,9 @@
-# Sounds-Keyboard
+# Patatap-Clone
+A basic clone of https://patatap.com/ 
 
-To use, download all files to a folder and open up the html file using your browser.
+Deployed here: 
+https://nckalx.github.io/Patatap-Clone/
 
-Once open, press any key A-Z and have some fun!
+Instructions: Press any key A-Z and have fun!
+
+Coded using vanilla Javascript, CSS, and HTML. Integrates Paper.js and Howler.js.
